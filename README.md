@@ -1,5 +1,5 @@
 # Compass
-[NeurIPS 2026] Prism: Harmonizing Missing Modalities via Implicit Structural Alignment on Lightweight Pulse RWKV for Multimodal Crack Segmentation
+[ACM MM 2026] Compass: Degradation-Simulated Reciprocal Learning with Lightweight Needle RWKV for Multimodal Crack Segmentation under Missing Modalities
 
 ## 📬 News
-- **2026-09-25**: 🎉🎉🎉We are delighted to announce that our **Prism** has been accepted by the **NeurIPS 2026**! The paper and the code will be available soon.
+- **2026-07-10**: 🎉🎉🎉We are delighted to announce that our **Compass** has been accepted by the **ACM MM 2026**! The paper and the code will be available soon.
