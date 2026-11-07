@@ -4,11 +4,23 @@
 <p align="center">
     <img src="./figures/LOGO.png" alt="LOGO" width="300" height="300" />
 </p>
+<div align="center">
+<h2>[ACM MM 2026] Compass: Degradation-Simulated Reciprocal Learning with Lightweight Needle RWKV for Multimodal Crack Segmentation under Missing Modalities</h2>
+</div>
+<div align="center">
+<h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h6>
+</div>
+
 
 <div align="center">
-<h2>Compass: Degradation-Simulated Reciprocal Learning with Lightweight Needle RWKV for Multimodal Crack Segmentation under Missing Modalities</h2>
+  <a href="https://arxiv.org/abs/2608.03559"><img src="https://img.shields.io/badge/Arxiv-2608.03559-b31b1b?logo=arXiv" alt="arXiv" style="height:20px;"></a>
+  <a href="https://www.apache.org/licenses/" style="margin-left:10px;"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow" alt="License" style="height:20px;"></a>
 </div>
+
+
+
 ## 📬 News
+
 - **2026-11-07**: The implementation code of our Compass is now available in this repository. Enjoy!🥰🥰🥰
 
 - **2026-07-10**: 🎉🎉🎉We are delighted to announce that our **Compass** has been accepted by the **ACM MM 2026**! The paper and the code will be available soon.
